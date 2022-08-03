@@ -6,4 +6,4 @@ private_subnets = ["10.0.4.0/24", "10.0.5.0/24", "10.0.6.0/24"]
 
 
 instance_type = "t2.micro"
-key_name      = "project12.pem"
+key_name      = "project12"
